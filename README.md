@@ -23,7 +23,7 @@ After installing, you can play the game by running the script. The game will pre
 Here is a sample output:
 Sample output here
 
-![image](https://github.com/chiegarcon/finalCapstone/assets/53046670/5736cb07-5fd0-4a8b-ae1b-2e6d5f43d9cf)
+![image](https://github.com/chiegarcon/finalCapstone/assets/53046670/140be758-c61c-4cb9-aea5-e426d1e03cbe)
 
 
 ## Credits
